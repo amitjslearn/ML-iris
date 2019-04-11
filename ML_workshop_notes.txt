@@ -1,0 +1,16 @@
+find_connect on linkedin
+- Andriy Burkhov, Imaad (speaker)
+
+-Reinforcement learning, unstable, not many applications
+
+-Imagenet dataset- DL compit.n every year
+
+-unsup lrn- num of cluster, n?= perplex model,etc?
+
+cmds
+-jupyter notebook
+
+
+-shortcuts in ipynb
+ run= shift+enter
+
